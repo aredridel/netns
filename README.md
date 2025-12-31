@@ -65,5 +65,5 @@ guillaume@nix:~$
 
 - Install application from rust package manager
 ```
-cargo add netns-utils
+cargo install netns-utils
 ```
